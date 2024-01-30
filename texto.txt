@@ -1,5 +1,6 @@
 prueba	
 
+<<<<<<< HEAD
 
 
 
@@ -12,3 +13,6 @@ prueba
 
 
 commit two
+=======
+texto nini
+>>>>>>> 7b40f3c8be8ce84328fdd0cf6e736243bc8647de
